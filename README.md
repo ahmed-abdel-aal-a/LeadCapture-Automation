@@ -35,5 +35,5 @@ This project is open source and available for modification and use under the MIT
 
 ---
 
-*Developed and maintained by Ahmed Abde. Contact: ahmed.abde.a20@gmail.com*
+*Developed and maintained by Ahmed Abd Elaal Contact: ahmed.abde.a20@gmail.com*
 
